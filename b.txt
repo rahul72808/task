@@ -1,2 +1,9 @@
+
 edit file b in master branch
 edit file b from master after commit from b1 branch
+=======
+
+edit file b from b1 branch
+=======
+edit file b from b1a branch
+
